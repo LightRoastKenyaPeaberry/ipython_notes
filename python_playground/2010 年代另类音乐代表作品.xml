@@ -1,0 +1,3329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-11-21T14:48:47Z</date>
+	<key>Application Version</key><string>1.3.3.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/joriri/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>AA9A864A621E07A1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3404</key>
+		<dict>
+			<key>Track ID</key><integer>3404</integer>
+			<key>Name</key><string>Sail</string>
+			<key>Artist</key><string>AWOLNATION</string>
+			<key>Album Artist</key><string>AWOLNATION</string>
+			<key>Composer</key><string>Aaron R. Bruno</string>
+			<key>Album</key><string>Megalithic Symphony</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9439339</integer>
+			<key>Total Time</key><integer>259093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-04-13T06:17:08Z</date>
+			<key>Date Added</key><date>2019-04-13T06:17:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3778740961</integer>
+			<key>Play Date UTC</key><date>2023-09-28T02:16:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-09-28T02:11:21Z</date>
+			<key>Release Date</key><date>2011-01-04T08:00:00Z</date>
+			<key>Normalization</key><integer>2297</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Megalithic Symphony</string>
+			<key>Sort Artist</key><string>AWOLNATION</string>
+			<key>Sort Name</key><string>Sail</string>
+			<key>Persistent ID</key><string>ABCD6F892E5726E4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3472</key>
+		<dict>
+			<key>Track ID</key><integer>3472</integer>
+			<key>Name</key><string>Believer</string>
+			<key>Artist</key><string>Imagine Dragons</string>
+			<key>Album Artist</key><string>Imagine Dragons</string>
+			<key>Composer</key><string>Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Robin Fredriksson, Mattias Larsson &#38; Justin Tranter</string>
+			<key>Album</key><string>Evolve</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7630326</integer>
+			<key>Total Time</key><integer>204345</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-04-27T05:07:59Z</date>
+			<key>Date Added</key><date>2019-04-27T05:07:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3782468212</integer>
+			<key>Play Date UTC</key><date>2023-11-10T05:36:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-17T06:59:32Z</date>
+			<key>Release Date</key><date>2017-02-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Evolve</string>
+			<key>Sort Artist</key><string>meng long yue tuan</string>
+			<key>Sort Name</key><string>Believer</string>
+			<key>Persistent ID</key><string>76E63CF44A2737E7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3474</key>
+		<dict>
+			<key>Track ID</key><integer>3474</integer>
+			<key>Name</key><string>Thunder</string>
+			<key>Artist</key><string>Imagine Dragons</string>
+			<key>Album Artist</key><string>Imagine Dragons</string>
+			<key>Composer</key><string>Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Jayson Dezuzio &#38; Alex Da Kidd</string>
+			<key>Album</key><string>Evolve</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7077927</integer>
+			<key>Total Time</key><integer>187145</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-04-27T05:08:19Z</date>
+			<key>Date Added</key><date>2019-04-27T05:08:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3778006336</integer>
+			<key>Play Date UTC</key><date>2023-09-19T14:12:16Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2022-01-30T05:34:14Z</date>
+			<key>Release Date</key><date>2017-04-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Evolve</string>
+			<key>Sort Artist</key><string>meng long yue tuan</string>
+			<key>Sort Name</key><string>Thunder</string>
+			<key>Persistent ID</key><string>08E08F3E0715784A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3518</key>
+		<dict>
+			<key>Track ID</key><integer>3518</integer>
+			<key>Name</key><string>bad guy</string>
+			<key>Artist</key><string>Billie Eilish</string>
+			<key>Album Artist</key><string>Billie Eilish</string>
+			<key>Composer</key><string>Billie Eilish &#38; FINNEAS</string>
+			<key>Album</key><string>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7204218</integer>
+			<key>Total Time</key><integer>194088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-05-10T10:40:55Z</date>
+			<key>Date Added</key><date>2019-05-10T10:40:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3739901991</integer>
+			<key>Play Date UTC</key><date>2022-07-05T13:39:51Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-09-17T00:26:00Z</date>
+			<key>Release Date</key><date>2019-03-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</string>
+			<key>Sort Artist</key><string>Billie Eilish</string>
+			<key>Sort Name</key><string>bad guy</string>
+			<key>Persistent ID</key><string>61CAD5931A4E8327</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3530</key>
+		<dict>
+			<key>Track ID</key><integer>3530</integer>
+			<key>Name</key><string>when the party's over</string>
+			<key>Artist</key><string>Billie Eilish</string>
+			<key>Album Artist</key><string>Billie Eilish</string>
+			<key>Composer</key><string>FINNEAS</string>
+			<key>Album</key><string>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7136474</integer>
+			<key>Total Time</key><integer>196077</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-05-11T12:14:25Z</date>
+			<key>Date Added</key><date>2019-05-11T12:14:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3710786155</integer>
+			<key>Play Date UTC</key><date>2021-08-02T13:55:55Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2022-02-14T09:09:44Z</date>
+			<key>Release Date</key><date>2018-10-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</string>
+			<key>Sort Artist</key><string>Billie Eilish</string>
+			<key>Sort Name</key><string>when the party's over</string>
+			<key>Persistent ID</key><string>1FA8FA91EB045A4D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3752</key>
+		<dict>
+			<key>Track ID</key><integer>3752</integer>
+			<key>Name</key><string>Stressed Out</string>
+			<key>Artist</key><string>twenty one pilots</string>
+			<key>Album Artist</key><string>twenty one pilots</string>
+			<key>Composer</key><string>Tyler Joseph</string>
+			<key>Album</key><string>Blurryface</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7343379</integer>
+			<key>Total Time</key><integer>202335</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-07-02T15:45:27Z</date>
+			<key>Date Added</key><date>2019-07-02T15:45:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3780497666</integer>
+			<key>Play Date UTC</key><date>2023-10-18T10:14:26Z</date>
+			<key>Release Date</key><date>2015-04-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blurryface</string>
+			<key>Sort Artist</key><string>ershiyihao feixingyuan</string>
+			<key>Sort Name</key><string>Stressed Out</string>
+			<key>Persistent ID</key><string>FBBE7CCE9AAEC70B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4016</key>
+		<dict>
+			<key>Track ID</key><integer>4016</integer>
+			<key>Name</key><string>Paradise</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno, Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9893441</integer>
+			<key>Total Time</key><integer>277610</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-10-06T15:19:49Z</date>
+			<key>Date Added</key><date>2019-10-06T15:19:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3746718117</integer>
+			<key>Play Date UTC</key><date>2022-09-22T11:01:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-05-08T14:13:09Z</date>
+			<key>Release Date</key><date>2011-10-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mylo Xyloto</string>
+			<key>Sort Artist</key><string>ku wan yue dui</string>
+			<key>Sort Name</key><string>Paradise</string>
+			<key>Persistent ID</key><string>140A9B4FE651EE7A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4020</key>
+		<dict>
+			<key>Track ID</key><integer>4020</integer>
+			<key>Name</key><string>A Sky Full of Stars</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Avicii, Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9611925</integer>
+			<key>Total Time</key><integer>268466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-10-06T15:20:27Z</date>
+			<key>Date Added</key><date>2019-10-06T15:20:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3755968823</integer>
+			<key>Play Date UTC</key><date>2023-01-07T12:40:23Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-06-02T12:08:20Z</date>
+			<key>Release Date</key><date>2014-05-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ghost Stories</string>
+			<key>Sort Artist</key><string>ku wan yue dui</string>
+			<key>Sort Name</key><string>A Sky Full of Stars</string>
+			<key>Persistent ID</key><string>98C021D8573D2365</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4479</key>
+		<dict>
+			<key>Track ID</key><integer>4479</integer>
+			<key>Name</key><string>Sweater Weather</string>
+			<key>Artist</key><string>The Neighbourhood</string>
+			<key>Album Artist</key><string>The Neighbourhood</string>
+			<key>Composer</key><string>Jesse®, Zachary Abels &#38; Jeremiah Freedman</string>
+			<key>Album</key><string>I Love You.</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8588251</integer>
+			<key>Total Time</key><integer>240400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-05-30T04:36:41Z</date>
+			<key>Date Added</key><date>2020-05-30T04:36:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3751996625</integer>
+			<key>Play Date UTC</key><date>2022-11-22T13:17:05Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-06-22T04:42:40Z</date>
+			<key>Release Date</key><date>2012-12-03T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Love You.</string>
+			<key>Sort Album Artist</key><string>Neighbourhood</string>
+			<key>Sort Artist</key><string>The Neighbourhood</string>
+			<key>Sort Name</key><string>Sweater Weather</string>
+			<key>Persistent ID</key><string>E4CECDFDA71F7F06</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4557</key>
+		<dict>
+			<key>Track ID</key><integer>4557</integer>
+			<key>Name</key><string>Royals</string>
+			<key>Artist</key><string>Lorde</string>
+			<key>Album Artist</key><string>Lorde</string>
+			<key>Composer</key><string>Lorde &#38; Joel Little</string>
+			<key>Album</key><string>Pure Heroine</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6980244</integer>
+			<key>Total Time</key><integer>190185</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2020-07-20T23:26:16Z</date>
+			<key>Date Added</key><date>2020-07-20T23:26:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3782317455</integer>
+			<key>Play Date UTC</key><date>2023-11-08T11:44:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-11T04:14:50Z</date>
+			<key>Release Date</key><date>2013-06-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pure Heroine</string>
+			<key>Sort Artist</key><string>luo de</string>
+			<key>Sort Name</key><string>Royals</string>
+			<key>Persistent ID</key><string>769BFD085C10A18E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4820</key>
+		<dict>
+			<key>Track ID</key><integer>4820</integer>
+			<key>Name</key><string>Take Me To Church</string>
+			<key>Artist</key><string>Hozier</string>
+			<key>Album Artist</key><string>Hozier</string>
+			<key>Composer</key><string>Hozier</string>
+			<key>Album</key><string>Hozier</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8652571</integer>
+			<key>Total Time</key><integer>241688</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-04-19T10:43:38Z</date>
+			<key>Date Added</key><date>2021-04-19T10:43:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3780928596</integer>
+			<key>Play Date UTC</key><date>2023-10-23T09:56:36Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-01-18T02:35:09Z</date>
+			<key>Release Date</key><date>2013-09-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hozier</string>
+			<key>Sort Artist</key><string>hou zi</string>
+			<key>Sort Name</key><string>Take Me To Church</string>
+			<key>Persistent ID</key><string>4A469DC7BE19E1EA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5216</key>
+		<dict>
+			<key>Track ID</key><integer>5216</integer>
+			<key>Name</key><string>Get Lucky</string>
+			<key>Artist</key><string>Daft Punk, Pharrell Williams &#38; NILE RODGERS</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Pharrell Williams, Nile Rodgers, Thomas Bangalter &#38; Guy-Manuel de Homem-Christo</string>
+			<key>Album</key><string>Random Access Memories</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>12896448</integer>
+			<key>Total Time</key><integer>369629</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2022-02-22T09:50:38Z</date>
+			<key>Date Added</key><date>2022-02-22T09:50:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3771954371</integer>
+			<key>Play Date UTC</key><date>2023-07-11T13:06:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-04-11T12:19:36Z</date>
+			<key>Release Date</key><date>2013-04-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Random Access Memories</string>
+			<key>Sort Artist</key><string>sha peng ke, fa rui er wei lian mu si &#38; Nile Rodgers</string>
+			<key>Sort Name</key><string>Get Lucky</string>
+			<key>Persistent ID</key><string>E74936BDC1EAC5FC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5796</key>
+		<dict>
+			<key>Track ID</key><integer>5796</integer>
+			<key>Name</key><string>High Hopes</string>
+			<key>Artist</key><string>Panic! At the Disco</string>
+			<key>Album Artist</key><string>Panic! At the Disco</string>
+			<key>Composer</key><string>Brendon Urie, Ilsey Juber, Jake Sinclair, Jenny Owen Youngs, Jonas Jeberg, Lauren Pritchard, Sam Hollander, Tayla Parx &#38; William Lobbin Bean</string>
+			<key>Album</key><string>Pray for the Wicked</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6801847</integer>
+			<key>Total Time</key><integer>190947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-05-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pray for the Wicked</string>
+			<key>Sort Artist</key><string>Panic! At the Disco</string>
+			<key>Sort Name</key><string>High Hopes</string>
+			<key>Persistent ID</key><string>99A490119E222393</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5812</key>
+		<dict>
+			<key>Track ID</key><integer>5812</integer>
+			<key>Name</key><string>Afraid</string>
+			<key>Artist</key><string>The Neighbourhood</string>
+			<key>Album Artist</key><string>The Neighbourhood</string>
+			<key>Composer</key><string>Jesse®, Emile Haynie, Zachary Abels, Jeremiah Freedman, Michael Margott &#38; Bryan Sammis</string>
+			<key>Album</key><string>I Love You.</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9299848</integer>
+			<key>Total Time</key><integer>251187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-04-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Love You.</string>
+			<key>Sort Album Artist</key><string>Neighbourhood</string>
+			<key>Sort Artist</key><string>The Neighbourhood</string>
+			<key>Sort Name</key><string>Afraid</string>
+			<key>Persistent ID</key><string>D295959D826F8811</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5882</key>
+		<dict>
+			<key>Track ID</key><integer>5882</integer>
+			<key>Name</key><string>Still Into You</string>
+			<key>Artist</key><string>Paramore</string>
+			<key>Album Artist</key><string>Paramore</string>
+			<key>Composer</key><string>Hayley Williams &#38; Taylor York</string>
+			<key>Album</key><string>Paramore</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8201983</integer>
+			<key>Total Time</key><integer>216019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paramore</string>
+			<key>Sort Artist</key><string>Paramore</string>
+			<key>Sort Name</key><string>Still Into You</string>
+			<key>Persistent ID</key><string>9E7062942DB2A4FF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5900</key>
+		<dict>
+			<key>Track ID</key><integer>5900</integer>
+			<key>Name</key><string>3 Nights</string>
+			<key>Artist</key><string>Dominic Fike</string>
+			<key>Album Artist</key><string>Dominic Fike</string>
+			<key>Composer</key><string>Dominic Fike &#38; Kevin "Capi" Carbo</string>
+			<key>Album</key><string>Don't Forget About Me, Demos - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6527811</integer>
+			<key>Total Time</key><integer>177667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-01-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Don't Forget About Me, Demos - EP</string>
+			<key>Sort Artist</key><string>Dominic Fike</string>
+			<key>Sort Name</key><string>3 Nights</string>
+			<key>Persistent ID</key><string>8F20743BB0AB9D16</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5912</key>
+		<dict>
+			<key>Track ID</key><integer>5912</integer>
+			<key>Name</key><string>Pumped Up Kicks</string>
+			<key>Artist</key><string>Foster the People</string>
+			<key>Album Artist</key><string>Foster the People</string>
+			<key>Composer</key><string>Mark Foster</string>
+			<key>Album</key><string>Torches</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8722665</integer>
+			<key>Total Time</key><integer>239840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-09-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Torches</string>
+			<key>Sort Artist</key><string>yong bao ren qun yue tuan</string>
+			<key>Sort Name</key><string>Pumped Up Kicks</string>
+			<key>Persistent ID</key><string>6044E4DC50D04519</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5914</key>
+		<dict>
+			<key>Track ID</key><integer>5914</integer>
+			<key>Name</key><string>Riptide</string>
+			<key>Artist</key><string>Vance Joy</string>
+			<key>Album Artist</key><string>Vance Joy</string>
+			<key>Composer</key><string>Vance Joy</string>
+			<key>Album</key><string>Dream Your Life Away (Special Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7262131</integer>
+			<key>Total Time</key><integer>202019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-22T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dream Your Life Away (Special Edition)</string>
+			<key>Sort Artist</key><string>Vance Joy</string>
+			<key>Sort Name</key><string>Riptide</string>
+			<key>Persistent ID</key><string>DEBDC1B3A15BDDD8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5938</key>
+		<dict>
+			<key>Track ID</key><integer>5938</integer>
+			<key>Name</key><string>On Melancholy Hill</string>
+			<key>Artist</key><string>Gorillaz</string>
+			<key>Album Artist</key><string>Gorillaz</string>
+			<key>Composer</key><string>Damon Albarn</string>
+			<key>Album</key><string>Plastic Beach</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9002884</integer>
+			<key>Total Time</key><integer>233867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-03-03T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Plastic Beach</string>
+			<key>Sort Artist</key><string>Gorillaz</string>
+			<key>Sort Name</key><string>On Melancholy Hill</string>
+			<key>Persistent ID</key><string>99D01DB8BAC090AA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5948</key>
+		<dict>
+			<key>Track ID</key><integer>5948</integer>
+			<key>Name</key><string>Pompeii</string>
+			<key>Artist</key><string>Bastille</string>
+			<key>Album Artist</key><string>Bastille</string>
+			<key>Composer</key><string>Dan Smith</string>
+			<key>Album</key><string>Bad Blood (The Extended Cut)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7580626</integer>
+			<key>Total Time</key><integer>214148</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bad Blood (The Extended Cut)</string>
+			<key>Sort Artist</key><string>Bastille</string>
+			<key>Sort Name</key><string>Pompeii</string>
+			<key>Persistent ID</key><string>651DC02337A3A262</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5970</key>
+		<dict>
+			<key>Track ID</key><integer>5970</integer>
+			<key>Name</key><string>Budapest</string>
+			<key>Artist</key><string>George Ezra</string>
+			<key>Album Artist</key><string>George Ezra</string>
+			<key>Composer</key><string>George Ezra &#38; Joel Pott</string>
+			<key>Album</key><string>Wanted On Voyage (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7310712</integer>
+			<key>Total Time</key><integer>200574</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-12-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wanted On Voyage (Deluxe)</string>
+			<key>Sort Artist</key><string>qiaozhi yisila</string>
+			<key>Sort Name</key><string>Budapest</string>
+			<key>Persistent ID</key><string>95AA309124C7CC4A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5994</key>
+		<dict>
+			<key>Track ID</key><integer>5994</integer>
+			<key>Name</key><string>Feel It Still</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Composer</key><string>Asa Taccone, Brian Holland, Frederick Gorman, John Hill, Portugal. The Man, Robert Bateman &#38; Zoe English</string>
+			<key>Album</key><string>Woodstock</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6003045</integer>
+			<key>Total Time</key><integer>163269</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-03-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Woodstock</string>
+			<key>Sort Artist</key><string>Portugal. The Man</string>
+			<key>Sort Name</key><string>Feel It Still</string>
+			<key>Persistent ID</key><string>4DD568E9550F56D0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6090</key>
+		<dict>
+			<key>Track ID</key><integer>6090</integer>
+			<key>Name</key><string>Dance Monkey</string>
+			<key>Artist</key><string>Tones And I</string>
+			<key>Album Artist</key><string>Tones And I</string>
+			<key>Composer</key><string>Toni Watson</string>
+			<key>Album</key><string>Dance Monkey - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7565622</integer>
+			<key>Total Time</key><integer>209438</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-05-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dance Monkey - Single</string>
+			<key>Sort Artist</key><string>Tones And I</string>
+			<key>Sort Name</key><string>Dance Monkey</string>
+			<key>Persistent ID</key><string>19887258A041D3E7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6188</key>
+		<dict>
+			<key>Track ID</key><integer>6188</integer>
+			<key>Name</key><string>BURN IT DOWN</string>
+			<key>Artist</key><string>LINKIN PARK</string>
+			<key>Album Artist</key><string>LINKIN PARK</string>
+			<key>Composer</key><string>Brad Delson, Chester Charles Bennington, David Michael Farrell, Joseph Hahn, Michael Kenji Shinoda &#38; Robert Gregory Bourdon</string>
+			<key>Album</key><string>LIVING THINGS</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8136237</integer>
+			<key>Total Time</key><integer>230259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LIVING THINGS</string>
+			<key>Sort Artist</key><string>lin ken gong yuan</string>
+			<key>Sort Name</key><string>BURN IT DOWN</string>
+			<key>Persistent ID</key><string>4A67239784ACB0B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6194</key>
+		<dict>
+			<key>Track ID</key><integer>6194</integer>
+			<key>Name</key><string>Harmony Hall</string>
+			<key>Artist</key><string>Vampire Weekend</string>
+			<key>Album Artist</key><string>Vampire Weekend</string>
+			<key>Composer</key><string>Ezra Koenig</string>
+			<key>Album</key><string>Father of the Bride</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>11520182</integer>
+			<key>Total Time</key><integer>308413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-03-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Father of the Bride</string>
+			<key>Sort Artist</key><string>xixueguizhoumo</string>
+			<key>Sort Name</key><string>Harmony Hall</string>
+			<key>Persistent ID</key><string>7ED7F68A3E620CC1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6222</key>
+		<dict>
+			<key>Track ID</key><integer>6222</integer>
+			<key>Name</key><string>Without Me</string>
+			<key>Artist</key><string>Halsey</string>
+			<key>Album Artist</key><string>Halsey</string>
+			<key>Composer</key><string>Louis Bell, Amy Allen, Halsey, Delacey, Justin Timberlake, Timothy Mosley &#38; Scott Storch</string>
+			<key>Album</key><string>Without Me - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7282920</integer>
+			<key>Total Time</key><integer>201633</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-10-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Without Me - Single</string>
+			<key>Sort Artist</key><string>Halsey</string>
+			<key>Sort Name</key><string>Without Me</string>
+			<key>Persistent ID</key><string>B9AE580093D14A00</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6224</key>
+		<dict>
+			<key>Track ID</key><integer>6224</integer>
+			<key>Name</key><string>Do I Wanna Know?</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>AM</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9826650</integer>
+			<key>Total Time</key><integer>272394</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-06-19T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>AM</string>
+			<key>Sort Artist</key><string>beijihouzi</string>
+			<key>Sort Name</key><string>Do I Wanna Know?</string>
+			<key>Persistent ID</key><string>ABB66E066255504B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6236</key>
+		<dict>
+			<key>Track ID</key><integer>6236</integer>
+			<key>Name</key><string>Walk</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Wasting Light</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9406857</integer>
+			<key>Total Time</key><integer>257377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-04-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wasting Light</string>
+			<key>Sort Artist</key><string>pen huo zhan ji yue dui</string>
+			<key>Sort Name</key><string>Walk</string>
+			<key>Persistent ID</key><string>A4F351DB06972A64</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6282</key>
+		<dict>
+			<key>Track ID</key><integer>6282</integer>
+			<key>Name</key><string>The Less I Know the Better</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>Currents</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8224867</integer>
+			<key>Total Time</key><integer>218880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-07-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Currents</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>The Less I Know the Better</string>
+			<key>Persistent ID</key><string>0F093ED0305F9EEA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6288</key>
+		<dict>
+			<key>Track ID</key><integer>6288</integer>
+			<key>Name</key><string>Shut Up and Dance</string>
+			<key>Artist</key><string>WALK THE MOON</string>
+			<key>Album Artist</key><string>WALK THE MOON</string>
+			<key>Composer</key><string>Nicholas Petricca, Kevin Ray, Sean Waugaman, Eli Maiman, Ben Berger &#38; Ryan McMahon</string>
+			<key>Album</key><string>TALKING IS HARD (Expanded Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7400232</integer>
+			<key>Total Time</key><integer>199080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-12-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>TALKING IS HARD (Expanded Edition)</string>
+			<key>Sort Artist</key><string>WALK THE MOON</string>
+			<key>Sort Name</key><string>Shut Up and Dance</string>
+			<key>Persistent ID</key><string>A47507A31E5A7DD7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6324</key>
+		<dict>
+			<key>Track ID</key><integer>6324</integer>
+			<key>Name</key><string>Closer</string>
+			<key>Artist</key><string>Tegan and Sara</string>
+			<key>Album Artist</key><string>Tegan and Sara</string>
+			<key>Composer</key><string>Greg Kurstin, Sara Quin &#38; Tegan Quin</string>
+			<key>Album</key><string>Heartthrob (Deluxe Version)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7784802</integer>
+			<key>Total Time</key><integer>209280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heartthrob (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Tegan and Sara</string>
+			<key>Sort Name</key><string>Closer</string>
+			<key>Persistent ID</key><string>F4DEB9AE2545E537</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6370</key>
+		<dict>
+			<key>Track ID</key><integer>6370</integer>
+			<key>Name</key><string>The Man</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>Brandon Flowers, Mark Stoermer, Ronnie Vannucci, Jr., Garret Lee, Robert Earl Bell, Ronald Bell, George Brown, Otha Nash, Claydes Smith, Richard Westfield, Robert Mickens, Donald Boyce &#38; Dennis Thomas</string>
+			<key>Album</key><string>Wonderful Wonderful (Deluxe)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8899304</integer>
+			<key>Total Time</key><integer>250093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-06-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wonderful Wonderful (Deluxe)</string>
+			<key>Sort Album Artist</key><string>Killers</string>
+			<key>Sort Artist</key><string>shashouyuetuan</string>
+			<key>Sort Name</key><string>The Man</string>
+			<key>Persistent ID</key><string>2F78A4C598AE8E2B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6374</key>
+		<dict>
+			<key>Track ID</key><integer>6374</integer>
+			<key>Name</key><string>Centuries</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Pete Wentz, Patrick Stump, Joe Trohman, Andy Hurley, Raja Kumari, Suzanne Vega, Jonathan Rotem, Michael J. Fonesca &#38; Justin Tranter</string>
+			<key>Album</key><string>American Beauty / American Psycho</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8505464</integer>
+			<key>Total Time</key><integer>228348</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Beauty / American Psycho</string>
+			<key>Sort Artist</key><string>fan nao xiao zi</string>
+			<key>Sort Name</key><string>Centuries</string>
+			<key>Persistent ID</key><string>0C4FFB1281962FAD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6376</key>
+		<dict>
+			<key>Track ID</key><integer>6376</integer>
+			<key>Name</key><string>Wait a Minute!</string>
+			<key>Artist</key><string>WILLOW</string>
+			<key>Album Artist</key><string>WILLOW</string>
+			<key>Composer</key><string>Willow Smith &#38; James Chul Rim</string>
+			<key>Album</key><string>Ardipithecus</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7018736</integer>
+			<key>Total Time</key><integer>196520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-12-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ardipithecus</string>
+			<key>Sort Artist</key><string>WILLOW</string>
+			<key>Sort Name</key><string>Wait a Minute!</string>
+			<key>Persistent ID</key><string>5CD0FBC097D07FDD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6384</key>
+		<dict>
+			<key>Track ID</key><integer>6384</integer>
+			<key>Name</key><string>The Night We Met</string>
+			<key>Artist</key><string>Lord Huron</string>
+			<key>Album Artist</key><string>Lord Huron</string>
+			<key>Composer</key><string>Ben Schneider &#38; Lord Huron</string>
+			<key>Album</key><string>Strange Trails</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7468529</integer>
+			<key>Total Time</key><integer>208212</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2015-02-09T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Strange Trails</string>
+			<key>Sort Artist</key><string>Lord Huron</string>
+			<key>Sort Name</key><string>The Night We Met</string>
+			<key>Persistent ID</key><string>1B9F444E4B34BBB4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6388</key>
+		<dict>
+			<key>Track ID</key><integer>6388</integer>
+			<key>Name</key><string>Renegades</string>
+			<key>Artist</key><string>X Ambassadors</string>
+			<key>Album Artist</key><string>X Ambassadors</string>
+			<key>Composer</key><string>Noah Feldshuh, Casey Harris, Sam Harris, Alex Da Kid &#38; Adam Levin</string>
+			<key>Album</key><string>VHS 2.0</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7371763</integer>
+			<key>Total Time</key><integer>195200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>VHS 2.0</string>
+			<key>Sort Artist</key><string>X Ambassadors</string>
+			<key>Sort Name</key><string>Renegades</string>
+			<key>Persistent ID</key><string>6D3CB11165D2C7AA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6390</key>
+		<dict>
+			<key>Track ID</key><integer>6390</integer>
+			<key>Name</key><string>Figure It Out</string>
+			<key>Artist</key><string>Royal Blood</string>
+			<key>Album Artist</key><string>Royal Blood</string>
+			<key>Composer</key><string>Ben Thatcher &#38; Mike Kerr</string>
+			<key>Album</key><string>Royal Blood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6619036</integer>
+			<key>Total Time</key><integer>183602</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-08-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Royal Blood</string>
+			<key>Sort Artist</key><string>Royal Blood</string>
+			<key>Sort Name</key><string>Figure It Out</string>
+			<key>Persistent ID</key><string>33B0012B8435D1BA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6396</key>
+		<dict>
+			<key>Track ID</key><integer>6396</integer>
+			<key>Name</key><string>The Sound</string>
+			<key>Artist</key><string>The 1975</string>
+			<key>Album Artist</key><string>The 1975</string>
+			<key>Composer</key><string>Matthew Healy, George Daniel, Adam Hann &#38; Ross MacDonald</string>
+			<key>Album</key><string>I Like It When You Sleep, For You Are So Beautiful Yet So Unaware of It</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9041216</integer>
+			<key>Total Time</key><integer>248880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Like It When You Sleep, For You Are So Beautiful Yet So Unaware of It</string>
+			<key>Sort Album Artist</key><string>1975</string>
+			<key>Sort Artist</key><string>The 1975</string>
+			<key>Sort Name</key><string>The Sound</string>
+			<key>Persistent ID</key><string>81E76DFB63EF5D0C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6404</key>
+		<dict>
+			<key>Track ID</key><integer>6404</integer>
+			<key>Name</key><string>Stolen Dance</string>
+			<key>Artist</key><string>Milky Chance</string>
+			<key>Album Artist</key><string>Milky Chance</string>
+			<key>Composer</key><string>Clemens Rehbein</string>
+			<key>Album</key><string>Sadnecessary</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>10874008</integer>
+			<key>Total Time</key><integer>313684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sadnecessary</string>
+			<key>Sort Artist</key><string>Milky Chance</string>
+			<key>Sort Name</key><string>Stolen Dance</string>
+			<key>Persistent ID</key><string>1402A5CD33B8A2AF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6406</key>
+		<dict>
+			<key>Track ID</key><integer>6406</integer>
+			<key>Name</key><string>Somebody That I Used to Know (feat. Kimbra)</string>
+			<key>Artist</key><string>Gotye</string>
+			<key>Album Artist</key><string>Gotye</string>
+			<key>Composer</key><string>Wally De Backer</string>
+			<key>Album</key><string>Making Mirrors (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9097143</integer>
+			<key>Total Time</key><integer>244885</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Making Mirrors (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>goutiye</string>
+			<key>Sort Name</key><string>Somebody That I Used to Know (feat. Kimbra)</string>
+			<key>Persistent ID</key><string>20BD397AC7B007F6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6412</key>
+		<dict>
+			<key>Track ID</key><integer>6412</integer>
+			<key>Name</key><string>We Are Young (feat. Janelle Monáe)</string>
+			<key>Artist</key><string>Fun.</string>
+			<key>Album Artist</key><string>Fun.</string>
+			<key>Composer</key><string>Fun &#38; Jeff Bhasker</string>
+			<key>Album</key><string>Some Nights</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8894470</integer>
+			<key>Total Time</key><integer>250627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Some Nights</string>
+			<key>Sort Artist</key><string>Fun.</string>
+			<key>Sort Name</key><string>We Are Young (feat. Janelle Monáe)</string>
+			<key>Persistent ID</key><string>8E9C64D30FE2D325</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6420</key>
+		<dict>
+			<key>Track ID</key><integer>6420</integer>
+			<key>Name</key><string>Someone New</string>
+			<key>Artist</key><string>Hozier</string>
+			<key>Album Artist</key><string>Hozier</string>
+			<key>Composer</key><string>Hozier &#38; Sallay Matu Garnett</string>
+			<key>Album</key><string>Hozier</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7905866</integer>
+			<key>Total Time</key><integer>222814</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-06-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hozier</string>
+			<key>Sort Artist</key><string>hou zi</string>
+			<key>Sort Name</key><string>Someone New</string>
+			<key>Persistent ID</key><string>D87BDFB8C3ACBC70</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6422</key>
+		<dict>
+			<key>Track ID</key><integer>6422</integer>
+			<key>Name</key><string>I Will Wait</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Marcus Mumford, Winston Marshall, Ted Dwane &#38; Ben Lovett</string>
+			<key>Album</key><string>Babel (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9737520</integer>
+			<key>Total Time</key><integer>276720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe)</string>
+			<key>Sort Artist</key><string>Meng Fu Zhi Zi Yue Dui</string>
+			<key>Sort Name</key><string>I Will Wait</string>
+			<key>Persistent ID</key><string>3A6B3B217B1CA8A6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6430</key>
+		<dict>
+			<key>Track ID</key><integer>6430</integer>
+			<key>Name</key><string>Ho Hey</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremiah Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>5951018</integer>
+			<key>Total Time</key><integer>163113</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>shaoyaoyuedui</string>
+			<key>Sort Name</key><string>Ho Hey</string>
+			<key>Persistent ID</key><string>C90A4A19190EE2EB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6440</key>
+		<dict>
+			<key>Track ID</key><integer>6440</integer>
+			<key>Name</key><string>Video Games</string>
+			<key>Artist</key><string>Lana Del Rey</string>
+			<key>Album Artist</key><string>Lana Del Rey</string>
+			<key>Composer</key><string>Elizabeth Grant &#38; Justin Parker</string>
+			<key>Album</key><string>Born to Die - The Paradise Edition</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9927429</integer>
+			<key>Total Time</key><integer>281960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born to Die - The Paradise Edition</string>
+			<key>Sort Artist</key><string>la na de lei</string>
+			<key>Sort Name</key><string>Video Games</string>
+			<key>Persistent ID</key><string>952DF710B9032726</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6446</key>
+		<dict>
+			<key>Track ID</key><integer>6446</integer>
+			<key>Name</key><string>Shake It Out</string>
+			<key>Artist</key><string>Florence + the Machine</string>
+			<key>Album Artist</key><string>Florence + the Machine</string>
+			<key>Composer</key><string>Florence Welch &#38; Paul Epworth</string>
+			<key>Album</key><string>Ceremonials (Deluxe)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9881374</integer>
+			<key>Total Time</key><integer>277637</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1975-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ceremonials (Deluxe)</string>
+			<key>Sort Artist</key><string>Florence + the Machine</string>
+			<key>Sort Name</key><string>Shake It Out</string>
+			<key>Persistent ID</key><string>5FED27715FB3B193</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>6452</key>
+		<dict>
+			<key>Track ID</key><integer>6452</integer>
+			<key>Name</key><string>Safe and Sound</string>
+			<key>Artist</key><string>Capital Cities</string>
+			<key>Album Artist</key><string>Capital Cities</string>
+			<key>Composer</key><string>Ryan Merchant &#38; Sebu Simonian</string>
+			<key>Album</key><string>In a Tidal Wave of Mystery (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7069614</integer>
+			<key>Total Time</key><integer>192790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In a Tidal Wave of Mystery (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Capital Cities</string>
+			<key>Sort Name</key><string>Safe and Sound</string>
+			<key>Persistent ID</key><string>FA060B072B2BC22F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7166</key>
+		<dict>
+			<key>Track ID</key><integer>7166</integer>
+			<key>Name</key><string>Hunger</string>
+			<key>Artist</key><string>Florence + the Machine</string>
+			<key>Album Artist</key><string>Florence + the Machine</string>
+			<key>Composer</key><string>Florence Welch, Tobias Jesso Jr., Emile Haynie &#38; Thomas Bartlett</string>
+			<key>Album</key><string>High As Hope</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7657264</integer>
+			<key>Total Time</key><integer>214667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-05-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High As Hope</string>
+			<key>Sort Artist</key><string>Florence + the Machine</string>
+			<key>Sort Name</key><string>Hunger</string>
+			<key>Persistent ID</key><string>C5513CAE37C31CB0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7197</key>
+		<dict>
+			<key>Track ID</key><integer>7197</integer>
+			<key>Name</key><string>Ain't It Fun</string>
+			<key>Artist</key><string>Paramore</string>
+			<key>Album Artist</key><string>Paramore</string>
+			<key>Composer</key><string>Hayley Williams &#38; Taylor York</string>
+			<key>Album</key><string>Paramore</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>10389425</integer>
+			<key>Total Time</key><integer>296508</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-04-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paramore</string>
+			<key>Sort Artist</key><string>Paramore</string>
+			<key>Sort Name</key><string>Ain't It Fun</string>
+			<key>Persistent ID</key><string>942E59B0B4A702B5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7352</key>
+		<dict>
+			<key>Track ID</key><integer>7352</integer>
+			<key>Name</key><string>Africa</string>
+			<key>Artist</key><string>Weezer</string>
+			<key>Album Artist</key><string>Weezer</string>
+			<key>Composer</key><string>David Paich &#38; Jeffrey Porcaro</string>
+			<key>Album</key><string>Africa - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8742052</integer>
+			<key>Total Time</key><integer>238627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-05-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Africa - Single</string>
+			<key>Sort Artist</key><string>Weezer</string>
+			<key>Sort Name</key><string>Africa</string>
+			<key>Persistent ID</key><string>7E4C41A561D4BCE0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7456</key>
+		<dict>
+			<key>Track ID</key><integer>7456</integer>
+			<key>Name</key><string>I Love You So</string>
+			<key>Artist</key><string>The Walters</string>
+			<key>Album Artist</key><string>The Walters</string>
+			<key>Composer</key><string>Charles Ekhaus, Daniel Wells, Luke Olson, Michael James Tirabassi &#38; Walter Kosner</string>
+			<key>Album</key><string>I Love You So - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>5849620</integer>
+			<key>Total Time</key><integer>160240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-11-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Love You So - Single</string>
+			<key>Sort Album Artist</key><string>Walters</string>
+			<key>Sort Artist</key><string>The Walters</string>
+			<key>Sort Name</key><string>I Love You So</string>
+			<key>Persistent ID</key><string>B17D6B84247E5B7F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7514</key>
+		<dict>
+			<key>Track ID</key><integer>7514</integer>
+			<key>Name</key><string>Elephant</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker &#38; Jay Watson</string>
+			<key>Album</key><string>Lonerism</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8294523</integer>
+			<key>Total Time</key><integer>211027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-07-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lonerism</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Elephant</string>
+			<key>Persistent ID</key><string>8E794322A23C9E8D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7721</key>
+		<dict>
+			<key>Track ID</key><integer>7721</integer>
+			<key>Name</key><string>Broken</string>
+			<key>Artist</key><string>lovelytheband</string>
+			<key>Album Artist</key><string>lovelytheband</string>
+			<key>Composer</key><string>Christian Medice, Mitchell Collins &#38; Samantha DeRosa</string>
+			<key>Album</key><string>Finding It Hard to Smile</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7449084</integer>
+			<key>Total Time</key><integer>204878</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-07-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Finding It Hard to Smile</string>
+			<key>Sort Artist</key><string>lovelytheband</string>
+			<key>Sort Name</key><string>Broken</string>
+			<key>Persistent ID</key><string>A0D62EE38F017BD0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7739</key>
+		<dict>
+			<key>Track ID</key><integer>7739</integer>
+			<key>Name</key><string>Little Talks</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Bryndís Hilmarsdóttir &#38; Ragnar Þórhallsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9591779</integer>
+			<key>Total Time</key><integer>266640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>shourenyuedui</string>
+			<key>Sort Name</key><string>Little Talks</string>
+			<key>Persistent ID</key><string>2996C6B7719CDA14</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7771</key>
+		<dict>
+			<key>Track ID</key><integer>7771</integer>
+			<key>Name</key><string>Psycho</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Drones</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>11262207</integer>
+			<key>Total Time</key><integer>316718</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Drones</string>
+			<key>Sort Artist</key><string>Miu Si</string>
+			<key>Sort Name</key><string>Psycho</string>
+			<key>Persistent ID</key><string>43BA9AE796062D59</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7811</key>
+		<dict>
+			<key>Track ID</key><integer>7811</integer>
+			<key>Name</key><string>On Hold</string>
+			<key>Artist</key><string>The xx</string>
+			<key>Album Artist</key><string>The xx</string>
+			<key>Composer</key><string>Daryl Hall, Jamie Smith, John Oates, S. Allen, Oliver Sim &#38; Romy Madley Croft</string>
+			<key>Album</key><string>I See You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8072784</integer>
+			<key>Total Time</key><integer>224133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-11-10T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I See You</string>
+			<key>Sort Album Artist</key><string>xx</string>
+			<key>Sort Artist</key><string>chachayuedui</string>
+			<key>Sort Name</key><string>On Hold</string>
+			<key>Persistent ID</key><string>D9EE8111537511C7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7841</key>
+		<dict>
+			<key>Track ID</key><integer>7841</integer>
+			<key>Name</key><string>New Americana</string>
+			<key>Artist</key><string>Halsey</string>
+			<key>Album Artist</key><string>Halsey</string>
+			<key>Composer</key><string>Halsey, Lawrence Principato, Chandra Uber &#38; James Mtume</string>
+			<key>Album</key><string>BADLANDS (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6657322</integer>
+			<key>Total Time</key><integer>183808</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-07-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BADLANDS (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Halsey</string>
+			<key>Sort Name</key><string>New Americana</string>
+			<key>Persistent ID</key><string>029EB363B3C1FB9F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7857</key>
+		<dict>
+			<key>Track ID</key><integer>7857</integer>
+			<key>Name</key><string>Ex's &#38; Oh's</string>
+			<key>Artist</key><string>Elle King</string>
+			<key>Album Artist</key><string>Elle King</string>
+			<key>Composer</key><string>Elle King &#38; Dave Bassett</string>
+			<key>Album</key><string>Love Stuff</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7550002</integer>
+			<key>Total Time</key><integer>202177</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Stuff</string>
+			<key>Sort Artist</key><string>Elle King</string>
+			<key>Sort Name</key><string>Ex's &#38; Oh's</string>
+			<key>Persistent ID</key><string>0AA9ACB0AB5B8ED4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7865</key>
+		<dict>
+			<key>Track ID</key><integer>7865</integer>
+			<key>Name</key><string>Walk On Water</string>
+			<key>Artist</key><string>Thirty Seconds to Mars</string>
+			<key>Album Artist</key><string>Thirty Seconds to Mars</string>
+			<key>Composer</key><string>Jared Leto &#38; Shannon Leto</string>
+			<key>Album</key><string>AMERICA</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6949342</integer>
+			<key>Total Time</key><integer>185467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-08-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>AMERICA</string>
+			<key>Sort Artist</key><string>30 Miao Shang Huo Xing</string>
+			<key>Sort Name</key><string>Walk On Water</string>
+			<key>Persistent ID</key><string>86854807D20326A8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7871</key>
+		<dict>
+			<key>Track ID</key><integer>7871</integer>
+			<key>Name</key><string>Dark Necessities</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Brian Burton, Chad Smith, Flea &#38; Josh Klinghoffer</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>10561108</integer>
+			<key>Total Time</key><integer>302013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-05-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The Getaway</string>
+			<key>Sort Artist</key><string>honglajiaoyuedui</string>
+			<key>Sort Name</key><string>Dark Necessities</string>
+			<key>Persistent ID</key><string>6D1042EBFD88B316</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7879</key>
+		<dict>
+			<key>Track ID</key><integer>7879</integer>
+			<key>Name</key><string>HandClap</string>
+			<key>Artist</key><string>Fitz and The Tantrums</string>
+			<key>Album Artist</key><string>Fitz and The Tantrums</string>
+			<key>Composer</key><string>Eric Frederic, James King, Jeremy Ruzumna, John Wicks, Joseph Karnes, Michael Fitzpatrick, Noelle Scaggs &#38; Sam Hollander</string>
+			<key>Album</key><string>Fitz &#38; the Tantrums (Deluxe)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7088727</integer>
+			<key>Total Time</key><integer>193260</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-03-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fitz &#38; the Tantrums (Deluxe)</string>
+			<key>Sort Artist</key><string>Fitz and The Tantrums</string>
+			<key>Sort Name</key><string>HandClap</string>
+			<key>Persistent ID</key><string>9E43C131C36F27BF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7965</key>
+		<dict>
+			<key>Track ID</key><integer>7965</integer>
+			<key>Name</key><string>Mess Around</string>
+			<key>Artist</key><string>Cage the Elephant</string>
+			<key>Album Artist</key><string>Cage the Elephant</string>
+			<key>Composer</key><string>Cage the Elephant</string>
+			<key>Album</key><string>Tell Me I'm Pretty</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6375701</integer>
+			<key>Total Time</key><integer>173175</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-12-18T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tell Me I'm Pretty</string>
+			<key>Sort Artist</key><string>Cage The Elephant</string>
+			<key>Sort Name</key><string>Mess Around</string>
+			<key>Persistent ID</key><string>C0C06FAB9D90AF9A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7973</key>
+		<dict>
+			<key>Track ID</key><integer>7973</integer>
+			<key>Name</key><string>Ophelia</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremiah Fraites</string>
+			<key>Album</key><string>Cleopatra (Deluxe Version)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>5934650</integer>
+			<key>Total Time</key><integer>160097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-02-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cleopatra (Deluxe Version)</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>shaoyaoyuedui</string>
+			<key>Sort Name</key><string>Ophelia</string>
+			<key>Persistent ID</key><string>6C66F5729CA075D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>7977</key>
+		<dict>
+			<key>Track ID</key><integer>7977</integer>
+			<key>Name</key><string>Believe</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Marcus Mumford, Winston Marshall, Ted Dwane &#38; Ben Lovett</string>
+			<key>Album</key><string>Wilder Mind (Deluxe)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7836834</integer>
+			<key>Total Time</key><integer>221040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wilder Mind (Deluxe)</string>
+			<key>Sort Artist</key><string>Meng Fu Zhi Zi Yue Dui</string>
+			<key>Sort Name</key><string>Believe</string>
+			<key>Persistent ID</key><string>C9232EF6CF4492C4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8001</key>
+		<dict>
+			<key>Track ID</key><integer>8001</integer>
+			<key>Name</key><string>Lampshades On Fire</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album Artist</key><string>Modest Mouse</string>
+			<key>Composer</key><string>Isaac Brock, Jeremiah Green, Tom Peloso, Kirby Fairchild &#38; Russell Higbee</string>
+			<key>Album</key><string>Strangers to Ourselves</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6712156</integer>
+			<key>Total Time</key><integer>187720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-12-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Strangers to Ourselves</string>
+			<key>Sort Artist</key><string>Modest Mouse</string>
+			<key>Sort Name</key><string>Lampshades On Fire</string>
+			<key>Persistent ID</key><string>9C41054A6E19764D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8015</key>
+		<dict>
+			<key>Track ID</key><integer>8015</integer>
+			<key>Name</key><string>Spirits</string>
+			<key>Artist</key><string>The Strumbellas</string>
+			<key>Album Artist</key><string>The Strumbellas</string>
+			<key>Composer</key><string>The Strumbellas &#38; Brian Pickett</string>
+			<key>Album</key><string>Hope</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7727487</integer>
+			<key>Total Time</key><integer>203653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-01-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hope</string>
+			<key>Sort Album Artist</key><string>Strumbellas</string>
+			<key>Sort Artist</key><string>The Strumbellas</string>
+			<key>Sort Composer</key><string>Strumbellas &#38; Brian Pickett</string>
+			<key>Sort Name</key><string>Spirits</string>
+			<key>Persistent ID</key><string>DCC1626F233D92D6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8023</key>
+		<dict>
+			<key>Track ID</key><integer>8023</integer>
+			<key>Name</key><string>The Sky Is a Neighborhood</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Concrete and Gold</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8943666</integer>
+			<key>Total Time</key><integer>244570</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-08-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Concrete and Gold</string>
+			<key>Sort Artist</key><string>pen huo zhan ji yue dui</string>
+			<key>Sort Name</key><string>The Sky Is a Neighborhood</string>
+			<key>Persistent ID</key><string>2A11330103C0C732</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8079</key>
+		<dict>
+			<key>Track ID</key><integer>8079</integer>
+			<key>Name</key><string>Waste a Moment</string>
+			<key>Artist</key><string>Kings of Leon</string>
+			<key>Album Artist</key><string>Kings of Leon</string>
+			<key>Composer</key><string>Caleb Followill, Nathan Followill, Jared Followill &#38; Matthew Followill</string>
+			<key>Album</key><string>Walls</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6772572</integer>
+			<key>Total Time</key><integer>183101</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Walls</string>
+			<key>Sort Artist</key><string>laiangguowang</string>
+			<key>Sort Name</key><string>Waste a Moment</string>
+			<key>Persistent ID</key><string>74DDBBF1A51D7850</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8085</key>
+		<dict>
+			<key>Track ID</key><integer>8085</integer>
+			<key>Name</key><string>Bang Bang</string>
+			<key>Artist</key><string>Green Day</string>
+			<key>Album Artist</key><string>Green Day</string>
+			<key>Composer</key><string>Billie Joe Armstrong, Mike Dirnt &#38; Tré Cool</string>
+			<key>Album</key><string>Revolution Radio</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8440117</integer>
+			<key>Total Time</key><integer>205440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-08-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Revolution Radio</string>
+			<key>Sort Artist</key><string>lv ri</string>
+			<key>Sort Name</key><string>Bang Bang</string>
+			<key>Persistent ID</key><string>7088596E7FD21E50</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8109</key>
+		<dict>
+			<key>Track ID</key><integer>8109</integer>
+			<key>Name</key><string>Cough Syrup</string>
+			<key>Artist</key><string>Young the Giant</string>
+			<key>Album Artist</key><string>Young the Giant</string>
+			<key>Composer</key><string>Ehson Hashemian, Eric Cannata, Francois Comtois, Jacob Tilley &#38; Sameer Gadhia</string>
+			<key>Album</key><string>Young the Giant</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8811218</integer>
+			<key>Total Time</key><integer>249520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-10-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Young the Giant</string>
+			<key>Sort Artist</key><string>Young the Giant</string>
+			<key>Sort Name</key><string>Cough Syrup</string>
+			<key>Persistent ID</key><string>8B61871CF1158496</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8111</key>
+		<dict>
+			<key>Track ID</key><integer>8111</integer>
+			<key>Name</key><string>I Sat by the Ocean</string>
+			<key>Artist</key><string>Queens of the Stone Age</string>
+			<key>Album Artist</key><string>Queens of the Stone Age</string>
+			<key>Composer</key><string>Dean Fertita, Michael Shuman, Troy Van Leeuwen &#38; Joshua Homme</string>
+			<key>Album</key><string>...Like Clockwork</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8664297</integer>
+			<key>Total Time</key><integer>235587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-05-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>...Like Clockwork</string>
+			<key>Sort Artist</key><string>shiqishidaihuanghou</string>
+			<key>Sort Name</key><string>I Sat by the Ocean</string>
+			<key>Persistent ID</key><string>B8BED06857E58709</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8113</key>
+		<dict>
+			<key>Track ID</key><integer>8113</integer>
+			<key>Name</key><string>Sixteen Saltines</string>
+			<key>Artist</key><string>Jack White</string>
+			<key>Album Artist</key><string>Jack White</string>
+			<key>Composer</key><string>Jack White</string>
+			<key>Album</key><string>Blunderbuss</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6065494</integer>
+			<key>Total Time</key><integer>157213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blunderbuss</string>
+			<key>Sort Artist</key><string>jie ke huai te</string>
+			<key>Sort Name</key><string>Sixteen Saltines</string>
+			<key>Persistent ID</key><string>088768E0EA7138ED</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8141</key>
+		<dict>
+			<key>Track ID</key><integer>8141</integer>
+			<key>Name</key><string>Everybody Talks</string>
+			<key>Artist</key><string>Neon Trees</string>
+			<key>Album Artist</key><string>Neon Trees</string>
+			<key>Composer</key><string>Tyler Glenn &#38; Tim Pagnotta</string>
+			<key>Album</key><string>Picture Show (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6601552</integer>
+			<key>Total Time</key><integer>177280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-12-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Picture Show (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>nihongshuyuetuan</string>
+			<key>Sort Name</key><string>Everybody Talks</string>
+			<key>Persistent ID</key><string>14CA4996EDCFE75E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8163</key>
+		<dict>
+			<key>Track ID</key><integer>8163</integer>
+			<key>Name</key><string>Hurt</string>
+			<key>Artist</key><string>Oliver Tree</string>
+			<key>Album Artist</key><string>Oliver Tree</string>
+			<key>Composer</key><string>Ethan Snoreck &#38; Oliver Tree</string>
+			<key>Album</key><string>Hurt - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>5357619</integer>
+			<key>Total Time</key><integer>145558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hurt - Single</string>
+			<key>Sort Artist</key><string>Oliver Tree</string>
+			<key>Sort Name</key><string>Hurt</string>
+			<key>Persistent ID</key><string>E4FF14190E04253F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8167</key>
+		<dict>
+			<key>Track ID</key><integer>8167</integer>
+			<key>Name</key><string>I Feel Like I'm Drowning</string>
+			<key>Artist</key><string>Two Feet</string>
+			<key>Album Artist</key><string>Two Feet</string>
+			<key>Composer</key><string>Zachary Dess</string>
+			<key>Album</key><string>A 20 Something F**k</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6692916</integer>
+			<key>Total Time</key><integer>185514</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>A 20 Something F**k</string>
+			<key>Sort Artist</key><string>Two Feet</string>
+			<key>Sort Name</key><string>I Feel Like I'm Drowning</string>
+			<key>Persistent ID</key><string>8E283BE726FAF4CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8181</key>
+		<dict>
+			<key>Track ID</key><integer>8181</integer>
+			<key>Name</key><string>Rollercoaster</string>
+			<key>Artist</key><string>Bleachers</string>
+			<key>Album Artist</key><string>Bleachers</string>
+			<key>Composer</key><string>Jack Antonoff &#38; John Hill</string>
+			<key>Album</key><string>Strange Desire</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6731203</integer>
+			<key>Total Time</key><integer>188867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-06-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Strange Desire</string>
+			<key>Sort Artist</key><string>Bleachers</string>
+			<key>Sort Name</key><string>Rollercoaster</string>
+			<key>Persistent ID</key><string>802E2022341AC71F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8223</key>
+		<dict>
+			<key>Track ID</key><integer>8223</integer>
+			<key>Name</key><string>Team</string>
+			<key>Artist</key><string>Lorde</string>
+			<key>Album Artist</key><string>Lorde</string>
+			<key>Composer</key><string>Lorde &#38; Joel Little</string>
+			<key>Album</key><string>Pure Heroine</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7097098</integer>
+			<key>Total Time</key><integer>193059</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-09-13T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pure Heroine</string>
+			<key>Sort Artist</key><string>luo de</string>
+			<key>Sort Name</key><string>Team</string>
+			<key>Persistent ID</key><string>E796C107E7A37945</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8227</key>
+		<dict>
+			<key>Track ID</key><integer>8227</integer>
+			<key>Name</key><string>Midnight City</string>
+			<key>Artist</key><string>M83</string>
+			<key>Album Artist</key><string>M83</string>
+			<key>Composer</key><string>Anthony Gonzalez - Yann Gonzalez</string>
+			<key>Album</key><string>Before the Dawn Heals Us</string>
+			<key>Genre</key><string>French Pop</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8546540</integer>
+			<key>Total Time</key><integer>243229</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-01-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Before the Dawn Heals Us</string>
+			<key>Sort Artist</key><string>M83</string>
+			<key>Sort Name</key><string>Midnight City</string>
+			<key>Persistent ID</key><string>66587F77CFFBF144</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8239</key>
+		<dict>
+			<key>Track ID</key><integer>8239</integer>
+			<key>Name</key><string>She's Kerosene</string>
+			<key>Artist</key><string>The Interrupters</string>
+			<key>Album Artist</key><string>The Interrupters</string>
+			<key>Composer</key><string>Justin Bivona, Jesse Bivona, Aimee Allen, Kevin Bivona &#38; Tim Armstrong</string>
+			<key>Album</key><string>Fight the Good Fight</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6292123</integer>
+			<key>Total Time</key><integer>170453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-06-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fight the Good Fight</string>
+			<key>Sort Album Artist</key><string>Interrupters</string>
+			<key>Sort Artist</key><string>The Interrupters</string>
+			<key>Sort Name</key><string>She's Kerosene</string>
+			<key>Persistent ID</key><string>C568FE83421E2596</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8247</key>
+		<dict>
+			<key>Track ID</key><integer>8247</integer>
+			<key>Name</key><string>No Roots</string>
+			<key>Artist</key><string>Alice Merton</string>
+			<key>Album Artist</key><string>Alice Merton</string>
+			<key>Composer</key><string>Alice Merton &#38; Nicolas Rebscher</string>
+			<key>Album</key><string>Mint</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8446251</integer>
+			<key>Total Time</key><integer>237053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2016-12-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mint</string>
+			<key>Sort Artist</key><string>Alice Merton</string>
+			<key>Sort Name</key><string>No Roots</string>
+			<key>Persistent ID</key><string>25A2BC328F7C6EB6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8249</key>
+		<dict>
+			<key>Track ID</key><integer>8249</integer>
+			<key>Name</key><string>Love It If We Made It</string>
+			<key>Artist</key><string>The 1975</string>
+			<key>Album Artist</key><string>The 1975</string>
+			<key>Composer</key><string>Matthew Healy, George Daniel, Adam Hann &#38; Ross MacDonald</string>
+			<key>Album</key><string>A Brief Inquiry Into Online Relationships</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9597730</integer>
+			<key>Total Time</key><integer>252926</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>A Brief Inquiry Into Online Relationships</string>
+			<key>Sort Album Artist</key><string>1975</string>
+			<key>Sort Artist</key><string>The 1975</string>
+			<key>Sort Name</key><string>Love It If We Made It</string>
+			<key>Persistent ID</key><string>AF21E85DFDC6D3D9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8251</key>
+		<dict>
+			<key>Track ID</key><integer>8251</integer>
+			<key>Name</key><string>Helena Beat</string>
+			<key>Artist</key><string>Foster the People</string>
+			<key>Album Artist</key><string>Foster the People</string>
+			<key>Composer</key><string>Mark Foster</string>
+			<key>Album</key><string>Torches</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9630369</integer>
+			<key>Total Time</key><integer>275533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-05-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Torches</string>
+			<key>Sort Artist</key><string>yong bao ren qun yue tuan</string>
+			<key>Sort Name</key><string>Helena Beat</string>
+			<key>Persistent ID</key><string>1667F4DE6D18A31D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8253</key>
+		<dict>
+			<key>Track ID</key><integer>8253</integer>
+			<key>Name</key><string>Lonely Boy</string>
+			<key>Artist</key><string>The Black Keys</string>
+			<key>Album Artist</key><string>The Black Keys</string>
+			<key>Composer</key><string>Brian Burton, Dan Auerbach &#38; Patrick Carney</string>
+			<key>Album</key><string>El Camino</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7000302</integer>
+			<key>Total Time</key><integer>193173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>El Camino</string>
+			<key>Sort Album Artist</key><string>Black Keys</string>
+			<key>Sort Artist</key><string>heisiqinjianyuetuan</string>
+			<key>Sort Name</key><string>Lonely Boy</string>
+			<key>Persistent ID</key><string>4B067510A42F0D2B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8265</key>
+		<dict>
+			<key>Track ID</key><integer>8265</integer>
+			<key>Name</key><string>Body Talks</string>
+			<key>Artist</key><string>The Struts</string>
+			<key>Album Artist</key><string>The Struts</string>
+			<key>Composer</key><string>Luke Spiller, Adam Slack, Lauren Christy &#38; Jon Levine</string>
+			<key>Album</key><string>YOUNG &#38; DANGEROUS</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>6459705</integer>
+			<key>Total Time</key><integer>178107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-06-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>YOUNG &#38; DANGEROUS</string>
+			<key>Sort Album Artist</key><string>Struts</string>
+			<key>Sort Artist</key><string>The Struts</string>
+			<key>Sort Name</key><string>Body Talks</string>
+			<key>Persistent ID</key><string>5958F9D40196391B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8267</key>
+		<dict>
+			<key>Track ID</key><integer>8267</integer>
+			<key>Name</key><string>Cigarette Daydreams</string>
+			<key>Artist</key><string>Cage the Elephant</string>
+			<key>Album Artist</key><string>Cage the Elephant</string>
+			<key>Composer</key><string>Cage the Elephant</string>
+			<key>Album</key><string>Melophobia</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8071285</integer>
+			<key>Total Time</key><integer>208760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-10-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Melophobia</string>
+			<key>Sort Artist</key><string>Cage The Elephant</string>
+			<key>Sort Name</key><string>Cigarette Daydreams</string>
+			<key>Persistent ID</key><string>8FC97CDB00084159</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8281</key>
+		<dict>
+			<key>Track ID</key><integer>8281</integer>
+			<key>Name</key><string>S.O.B.</string>
+			<key>Artist</key><string>Nathaniel Rateliff &#38; The Night Sweats</string>
+			<key>Album Artist</key><string>Nathaniel Rateliff &#38; The Night Sweats</string>
+			<key>Composer</key><string>Nathaniel Rateliff</string>
+			<key>Album</key><string>Nathaniel Rateliff &#38; the Night Sweats (Deluxe Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9115017</integer>
+			<key>Total Time</key><integer>247612</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nathaniel Rateliff &#38; the Night Sweats (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Nathaniel Rateliff &#38; The Night Sweats</string>
+			<key>Sort Name</key><string>S.O.B.</string>
+			<key>Persistent ID</key><string>5B9C785C184F6252</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8285</key>
+		<dict>
+			<key>Track ID</key><integer>8285</integer>
+			<key>Name</key><string>Light On</string>
+			<key>Artist</key><string>Maggie Rogers</string>
+			<key>Album Artist</key><string>Maggie Rogers</string>
+			<key>Composer</key><string>Maggie Rogers &#38; Tom Hull</string>
+			<key>Album</key><string>Heard It In A Past Life</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8331314</integer>
+			<key>Total Time</key><integer>233880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-10-09T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heard It In A Past Life</string>
+			<key>Sort Artist</key><string>Maggie Rogers</string>
+			<key>Sort Name</key><string>Light On</string>
+			<key>Persistent ID</key><string>DED56475081A84AB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8287</key>
+		<dict>
+			<key>Track ID</key><integer>8287</integer>
+			<key>Name</key><string>Breezeblocks</string>
+			<key>Artist</key><string>alt-J</string>
+			<key>Album Artist</key><string>alt-J</string>
+			<key>Composer</key><string>Joe Newman/ Gus Unger-Hamilton /Gwilym Sainsbury/Thom Green</string>
+			<key>Album</key><string>An Awesome Wave (Deluxe Version)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8165513</integer>
+			<key>Total Time</key><integer>227084</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>41</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-05-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>An Awesome Wave (Deluxe Version)</string>
+			<key>Sort Artist</key><string>sanjiaoyuedui</string>
+			<key>Sort Name</key><string>Breezeblocks</string>
+			<key>Persistent ID</key><string>91D05A51D847AD01</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8291</key>
+		<dict>
+			<key>Track ID</key><integer>8291</integer>
+			<key>Name</key><string>Human</string>
+			<key>Artist</key><string>Rag'n'Bone Man</string>
+			<key>Album Artist</key><string>Rag'n'Bone Man</string>
+			<key>Composer</key><string>Rory Graham, Jamie Hartman &#38; Nick Monson</string>
+			<key>Album</key><string>Human (Deluxe)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7094718</integer>
+			<key>Total Time</key><integer>200192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-07-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Human (Deluxe)</string>
+			<key>Sort Artist</key><string>Rag'n'Bone Man</string>
+			<key>Sort Name</key><string>Human</string>
+			<key>Persistent ID</key><string>C2E6415FCD903B2E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8295</key>
+		<dict>
+			<key>Track ID</key><integer>8295</integer>
+			<key>Name</key><string>Death of a Bachelor</string>
+			<key>Artist</key><string>Panic! At the Disco</string>
+			<key>Album Artist</key><string>Panic! At the Disco</string>
+			<key>Composer</key><string>Brendon Urie, Jake Sinclair &#38; Lauren Pritchard</string>
+			<key>Album</key><string>Death of a Bachelor</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7200455</integer>
+			<key>Total Time</key><integer>203503</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-12-09T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death of a Bachelor</string>
+			<key>Sort Artist</key><string>Panic! At the Disco</string>
+			<key>Sort Name</key><string>Death of a Bachelor</string>
+			<key>Persistent ID</key><string>76B2197104E21D59</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8297</key>
+		<dict>
+			<key>Track ID</key><integer>8297</integer>
+			<key>Name</key><string>Mountain Sound</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Bryndís Hilmarsdóttir, Ragnar Þórhallsson &#38; Arnar Rósenkranz Hilmarsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7971075</integer>
+			<key>Total Time</key><integer>211520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>shourenyuedui</string>
+			<key>Sort Name</key><string>Mountain Sound</string>
+			<key>Persistent ID</key><string>F3D03BFEDE5B712E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8299</key>
+		<dict>
+			<key>Track ID</key><integer>8299</integer>
+			<key>Name</key><string>Heathens</string>
+			<key>Artist</key><string>twenty one pilots</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Tyler Joseph</string>
+			<key>Album</key><string>Suicide Squad: The Album</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7478635</integer>
+			<key>Total Time</key><integer>195920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-06-16T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Suicide Squad: The Album</string>
+			<key>Sort Artist</key><string>ershiyihao feixingyuan</string>
+			<key>Sort Name</key><string>Heathens</string>
+			<key>Persistent ID</key><string>A436AE76A4A656BF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8301</key>
+		<dict>
+			<key>Track ID</key><integer>8301</integer>
+			<key>Name</key><string>R U Mine?</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>AM</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7437267</integer>
+			<key>Total Time</key><integer>201726</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-02-27T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>AM</string>
+			<key>Sort Artist</key><string>beijihouzi</string>
+			<key>Sort Name</key><string>R U Mine?</string>
+			<key>Persistent ID</key><string>3598B3E81C1B3C0D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8305</key>
+		<dict>
+			<key>Track ID</key><integer>8305</integer>
+			<key>Name</key><string>First</string>
+			<key>Artist</key><string>Cold War Kids</string>
+			<key>Album Artist</key><string>Cold War Kids</string>
+			<key>Composer</key><string>Nathan Willett, Dann Gallucci, Joe Plummer, Matt Maust &#38; Matt Schwartz</string>
+			<key>Album</key><string>Hold My Home (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7329545</integer>
+			<key>Total Time</key><integer>200360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hold My Home (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Cold War Kids</string>
+			<key>Sort Name</key><string>First</string>
+			<key>Persistent ID</key><string>8E5097DB5739E8A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8313</key>
+		<dict>
+			<key>Track ID</key><integer>8313</integer>
+			<key>Name</key><string>Wow</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Album Artist</key><string>Beck</string>
+			<key>Composer</key><string>Beck Hansen &#38; Cole Greif-Neill</string>
+			<key>Album</key><string>Colors</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8079566</integer>
+			<key>Total Time</key><integer>222335</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-06-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colors</string>
+			<key>Sort Artist</key><string>Beck</string>
+			<key>Sort Name</key><string>Wow</string>
+			<key>Persistent ID</key><string>17E3B14A7EAAA03E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8317</key>
+		<dict>
+			<key>Track ID</key><integer>8317</integer>
+			<key>Name</key><string>Good Grief</string>
+			<key>Artist</key><string>Bastille</string>
+			<key>Album Artist</key><string>Bastille</string>
+			<key>Composer</key><string>Dan Smith</string>
+			<key>Album</key><string>Wild World (Complete Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7522423</integer>
+			<key>Total Time</key><integer>206500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wild World (Complete Edition)</string>
+			<key>Sort Artist</key><string>Bastille</string>
+			<key>Sort Name</key><string>Good Grief</string>
+			<key>Persistent ID</key><string>5799EECEB4E0606F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8319</key>
+		<dict>
+			<key>Track ID</key><integer>8319</integer>
+			<key>Name</key><string>Burn the House Down</string>
+			<key>Artist</key><string>AJR</string>
+			<key>Album Artist</key><string>AJR</string>
+			<key>Composer</key><string>Ryan Met, Jack Met &#38; Adam Met</string>
+			<key>Album</key><string>The Click (Deluxe Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7756163</integer>
+			<key>Total Time</key><integer>212689</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-06-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>The Click (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>AJR</string>
+			<key>Sort Name</key><string>Burn the House Down</string>
+			<key>Persistent ID</key><string>FDD09242C6132749</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8327</key>
+		<dict>
+			<key>Track ID</key><integer>8327</integer>
+			<key>Name</key><string>Summertime Sadness</string>
+			<key>Artist</key><string>Lana Del Rey</string>
+			<key>Album Artist</key><string>Lana Del Rey</string>
+			<key>Composer</key><string>Elizabeth Grant &#38; Rick Nowels</string>
+			<key>Album</key><string>Born to Die - The Paradise Edition</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>9173069</integer>
+			<key>Total Time</key><integer>265427</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born to Die - The Paradise Edition</string>
+			<key>Sort Artist</key><string>la na de lei</string>
+			<key>Sort Name</key><string>Summertime Sadness</string>
+			<key>Persistent ID</key><string>CC6259A7ED0ECDB8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8341</key>
+		<dict>
+			<key>Track ID</key><integer>8341</integer>
+			<key>Name</key><string>Blood // Water</string>
+			<key>Artist</key><string>grandson</string>
+			<key>Album Artist</key><string>grandson</string>
+			<key>Composer</key><string>Chester Krupa Carbone, Jordan Benjamin &#38; Kevin Hissink</string>
+			<key>Album</key><string>Blood // Water - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>7685051</integer>
+			<key>Total Time</key><integer>216721</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-10-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood // Water - Single</string>
+			<key>Sort Artist</key><string>grandson</string>
+			<key>Sort Name</key><string>Blood // Water</string>
+			<key>Persistent ID</key><string>8019336168F542EB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>8345</key>
+		<dict>
+			<key>Track ID</key><integer>8345</integer>
+			<key>Name</key><string>The Ghosts of Beverly Drive</string>
+			<key>Artist</key><string>Death Cab for Cutie</string>
+			<key>Album Artist</key><string>Death Cab for Cutie</string>
+			<key>Composer</key><string>Benjamin Gibbard</string>
+			<key>Album</key><string>Kintsugi</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC音频文件</string>
+			<key>Size</key><integer>8983369</integer>
+			<key>Total Time</key><integer>244052</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kintsugi</string>
+			<key>Sort Artist</key><string>Death Cab for Cutie</string>
+			<key>Sort Name</key><string>The Ghosts of Beverly Drive</string>
+			<key>Persistent ID</key><string>0B6005146C51824C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2010 年代另类音乐代表作品</string>
+			<key>Description</key><string>在经历了上世纪 90 年代中后期的疲软之后，另类音乐在新世纪重新找到了它的发展方向。从略显平静的 Lana Del Rey 到更响亮的 Fall Out Boy，以及 Coldplay 和 The 1975，从他们的作品中，都能感受到另类音乐的多元风格。</string>
+			<key>Playlist ID</key><integer>10996</integer>
+			<key>Playlist Persistent ID</key><string>272C53131158542A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5912</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4820</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5796</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5938</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8001</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5812</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7811</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5970</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5882</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8015</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
